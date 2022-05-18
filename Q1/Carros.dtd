@@ -1,1 +1,12 @@
-
+<!ELEMENT listaautomoveis (automovel*)>
+<!ELEMENT automovel (descricao, caracteristicas, preco)>
+<!ELEMENT descricao (combustivel)>
+<!ELEMENT combustivel (#PCDATA)>
+<!ATTLIST combustivel tipo CDATA #REQUIRED>
+<!ELEMENT caracteristicas (cor, quilometragem, fotografia, obs)>
+<!ELEMENT cor (#PCDATA)>
+<!ATTLIST cor nome CDATA #REQUIRED>
+<!ELEMENT quilometragem (#PCDATA)>
+<!ELEMENT fotografia (#PCDATA)>
+<!ELEMENT preco (#PCDATA)>
+<!ELEMENT obs (#PCDATA)>
