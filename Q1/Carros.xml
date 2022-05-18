@@ -3,10 +3,8 @@
 
 <listaautomoveis>
     <automovel>
-        <descricao>
-            <combustivel tipo="GLP" />
-        </descricao>
-
+        <descricao combustivel="GLP/>
+         
         <caracteristicas>
             <cor nome="azul" />
             <quilometragem>100km</quilometragem>
