@@ -3,7 +3,7 @@
 <olimpiadas>
 
 	<paises>
-		<pais possicao="1">China
+		<pais classicacao="1">China
 			<medalhas>
 				<ouro quantidade="51"/>
 		
@@ -15,7 +15,7 @@
 			</medalhas>
 		</pais>
 		
-		<pais possicao="2">Estados Unidos
+		<pais classificacao="2">Estados Unidos
 			<medalhas>
 				<ouro quantidade="36"/>
 		
@@ -27,7 +27,7 @@
 			</medalhas>
 		</pais>
 		
-		<pais possicao="3">Rússia
+		<pais classificacao="3">Rússia
 			<medalhas>
 				<ouro quantidade="23"/>
 		
@@ -39,7 +39,7 @@
 			</medalhas>
 		</pais>
 		
-		<pais possicao="4">Grã Bretanha 
+		<pais classificacao="4">Grã Bretanha 
 			<medalhas>
 				<ouro quantidade="19"/>
 		
@@ -51,7 +51,7 @@
 		</medalhas>
 		</pais>
 		
-		<pais possicao="5">Alemanha
+		<pais classificacao="5">Alemanha
 			<medalhas>
 				<ouro quantidade="16"/>
 		
@@ -63,7 +63,7 @@
 			</medalhas>
 		</pais>
 		
-		<pais possicao="23">Brasil
+		<pais classificao="23">Brasil
 			<medalhas>
 				<ouro quantidade="3"/>
 				
