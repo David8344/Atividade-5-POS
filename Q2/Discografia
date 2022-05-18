@@ -1,0 +1,30 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<discografia>
+    <cantor>João
+        <disco>
+            <titulo>Hoje</titulo>
+            <anodelancamento>2019</anodelancamento>
+            <gravadora>HF</gravadora>
+            <musicas>
+                <musica id="a01">
+                    <nome>Hoje</nome>
+                </musica>
+            </musicas>
+            <musicas>
+                <musica id="a01">
+                    <nome>amanhã</nome>
+                </musica>
+            </musicas>
+        </disco>
+        <disco>
+            <titulo>Todos os dias</titulo>
+            <anodelancamento>2020</anodelancamento>
+            <gravadora>HF</gravadora>
+            <musicas>
+                <musica id="b01">
+                    <nome>Todos os dias</nome>
+                </musica>
+            </musicas>
+        </disco>
+    </cantor>
+</discografia>
