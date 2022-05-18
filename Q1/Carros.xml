@@ -2,8 +2,9 @@
 <!DOCTYPE listaautomoveis SYSTEM "carros.dtd">
 
 <listaautomoveis>
+    
     <automovel>
-        <descricao combustivel="GLP/>
+        <descricao combustivel="GLP"/>
          
         <caracteristicas>
             <cor nome="azul" />
@@ -18,4 +19,22 @@
         <preco>68000</preco>
 
     </automovel>
+    
+    <automovel>
+        <descricao combustivel="GLP"/>
+         
+        <caracteristicas>
+            <cor nome="vermelho" />
+            <quilometragem>200km</quilometragem>
+
+            <fotografia />
+
+            <obs>pintura nova</obs>
+
+
+        </caracteristicas>
+        <preco>98000</preco>
+
+    </automovel>
+    
 </listaautomoveis>
