@@ -38,7 +38,7 @@
     </automovel>
     
     <automovel>
-        <descricao combustivel="Gasolina"/>
+        <descricao combustivel="Gasoleo"/>
          
         <caracteristicas>
             <cor nome="prata" />
