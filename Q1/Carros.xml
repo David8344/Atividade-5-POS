@@ -21,7 +21,7 @@
     </automovel>
     
     <automovel>
-        <descricao combustivel="GLP"/>
+        <descricao combustivel="Gasolina"/>
          
         <caracteristicas>
             <cor nome="vermelho" />
@@ -30,6 +30,23 @@
             <fotografia />
 
             <obs>pintura nova</obs>
+
+
+        </caracteristicas>
+        <preco>98000</preco>
+
+    </automovel>
+    
+    <automovel>
+        <descricao combustivel="Gasolina"/>
+         
+        <caracteristicas>
+            <cor nome="prata" />
+            <quilometragem>1000km</quilometragem>
+
+            <fotografia />
+
+            <obs>precisa trocar os pneus</obs>
 
 
         </caracteristicas>
