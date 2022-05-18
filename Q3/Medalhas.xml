@@ -1,1 +1,80 @@
+<?xml version="1.1" encoding="UTF-8"?>
 
+<olimpiadas>
+
+	<paises>
+		<pais possicao="1">China
+			<medalhas>
+				<ouro quantidade="51"/>
+		
+				<prata quantidade="21"/>
+		
+				<bronze quantidade="28"/>
+		
+				<total>100</total>
+			</medalhas>
+		</pais>
+		
+		<pais possicao="2">Estados Unidos
+			<medalhas>
+				<ouro quantidade="36"/>
+		
+				<prata quantidade="38"/>
+		
+				<bronze quantidade="36"/>
+		
+				<total>110</total>
+			</medalhas>
+		</pais>
+		
+		<pais possicao="3">Rússia
+			<medalhas>
+				<ouro quantidade="23"/>
+		
+				<prata quantidade="21"/>
+		
+				<bronze quantidade="28"/>
+		
+				<total>72</total>
+			</medalhas>
+		</pais>
+		
+		<pais possicao="4">Grã Bretanha 
+			<medalhas>
+				<ouro quantidade="19"/>
+		
+				<prata quantidade="13"/>
+		
+				<bronze quantidade="15"/>
+		
+				<total>47</total>
+		</medalhas>
+		</pais>
+		
+		<pais possicao="5">Alemanha
+			<medalhas>
+				<ouro quantidade="16"/>
+		
+				<prata quantidade="10"/>
+		
+				<bronze quantidade="15"/>
+		
+				<total>41</total>
+			</medalhas>
+		</pais>
+		
+		<pais possicao="23">Brasil
+			<medalhas>
+				<ouro quantidade="3"/>
+				
+				<prata quantidade="4"/>
+				
+				<bronze quantidade="8"/>
+				
+				<total>15</total>
+			</medalhas>
+		</pais>
+		
+	</paises>
+
+</olimpiadas>
