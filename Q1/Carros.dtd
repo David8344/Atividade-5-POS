@@ -1,4 +1,4 @@
-<!ELEMENT listaautomoveis (automovel*)>
+<!ELEMENT listaautomoveis (automovel+)>
 <!ELEMENT automovel (descricao, caracteristicas, preco)>
 <!ELEMENT descricao (#PCDATA)>
 <!ATTLIST descricao combustivel CDATA #REQUIRED>
