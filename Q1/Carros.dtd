@@ -1,7 +1,7 @@
 <!ELEMENT listaautomoveis (automovel+)>
 <!ELEMENT automovel (descricao, caracteristicas, preco)>
 <!ELEMENT descricao (#PCDATA)>
-<!ATTLIST descricao combustivel (gasolina |gasoleo|GLP) #REQUIRED>
+<!ATTLIST descricao combustivel (Gasolina|Gasoleo|GLP) #REQUIRED>
 <!ELEMENT caracteristicas (cor, quilometragem, fotografia, obs)>
 <!ELEMENT cor (#PCDATA)>
 <!ATTLIST cor nome CDATA #REQUIRED>
