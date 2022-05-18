@@ -1,1 +1,23 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE listaautomoveis SYSTEM "carros.dtd">
 
+<listaautomoveis>
+    <automovel>
+        <descricao>
+            <combustivel tipo="GLP" />
+        </descricao>
+
+        <caracteristicas>
+            <cor nome="azul" />
+            <quilometragem>100km</quilometragem>
+
+            <fotografia />
+
+            <obs>um pouco arranhado</obs>
+
+
+        </caracteristicas>
+        <preco>68000</preco>
+
+    </automovel>
+</listaautomoveis>
